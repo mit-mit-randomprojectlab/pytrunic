@@ -14,6 +14,7 @@ Trunic text is composed of "Trunes", each encoding a consonant/vowel pair of pho
 ![Example Trunic](example_out001.png)
 
 Phonetic translation: "t-roo-ni-k iz thzah l-ang-wi-ch ov thzah po-p-yoo-lah gay-m too-ni-k!"
+
 English translation: "Trunic is the language of the popular game Tunic!"
 
 ## Usage
@@ -32,29 +33,51 @@ See "pytrunic_example.py":
     # export out to file
     trunic.export(sentence2, 'example_out001.png')
 
-## Notes of text strings and phonemes
+## Notes on text strings and phonemes
 I ended up using my own style of phonemes (see examples below). Each trune is specified by a combination of (up to two) phonemes (one consontant, one vowel in pronounced order), with individual trunes separated by a hyphen within a given word. Spaces between words. Accepts the punctuation . , ! and ?.
 
 ## Consonant phonemes:
-
+* 'b' as in 
+* 'ch' as in 
+* 'd' as in 
+* 'f' as in 
+* 'g' as in 
+* 'h' as in 
+* 'j' as in 
+* 'k' as in 
+* 'l' as in 
+* 'm' as in 
+* 'n' as in 
+* 'ng' as in 
+* 'p' as in 
+* 'r' as in 
+* 's' as in 
+* 'sh' as in 
+* 't' as in 
+* 'th' as in 
+* 'thz' as in 
+* 'v' as in 
+* 'w' as in 
+* 'y' as in 
+* 'z' as in 
+* 'zh' as in 
 
 ## Vowel phonemes:
 * 'a' as in **a**pple.
-* 'ar'as in **ar**t.
+* 'ar' as in **ar**t or p**ar**t (the 'r' usually rolls over into the next phoneme).
 * 'o' as in h**o**t.
-* 'ay' as in d**ay**.
-* 'e' as in 
-* 'ee' as in 
-* 'ear' as in 
-* 'ah' as in 
-* 'air' as in 
-* 'i' as in 
-* 'ie' as in 
-* 'er' as in 
-* 'oh' as in 
-* 'oi' as in 
-* 'oo' as in 
-* 'ou' as in 
-* 'ow' as in 
-* 'aw' as in 
-
+* 'ay' as in d**ay** or pl**ay**.
+* 'e' as in b**e**t or p**e**t.
+* 'ee' as in b**ee** or f**ee**t.
+* 'ear' as in f**ear** or cl**ear**.
+* 'ah' as in b**a**th or f**a**ther (similar to 'ar' but without the 'r' sound).
+* 'air' as in f**air** or **heir**.
+* 'i' as in b**i**g or w**i**th.
+* 'ie' as in d**ie** or fl**y**.
+* 'er' as in **ear**th or wat**er**.
+* 'oh' as in **oh**ms or f**oe**.
+* 'oi' as in t**oy** or t**oi**let.
+* 'oo' as in m**oo**d or r**u**de.
+* 'ou' as in l**oo**k or w**o**lf.
+* 'ow' as in h**ow** or p**ow**der.
+* 'aw' as in p**aw** or p**our** or t**or**n.
