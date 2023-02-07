@@ -37,30 +37,30 @@ See "pytrunic_example.py":
 I ended up using my own style of phonemes (see examples below). Each trune is specified by a combination of (up to two) phonemes (one consontant, one vowel in pronounced order), with individual trunes separated by a hyphen within a given word. Spaces between words. Accepts the punctuation . , ! and ?.
 
 ## Consonant phonemes:
-* 'b' as in 
-* 'ch' as in 
-* 'd' as in 
-* 'f' as in 
-* 'g' as in 
-* 'h' as in 
-* 'j' as in 
-* 'k' as in 
-* 'l' as in 
-* 'm' as in 
-* 'n' as in 
-* 'ng' as in 
-* 'p' as in 
-* 'r' as in 
-* 's' as in 
-* 'sh' as in 
-* 't' as in 
-* 'th' as in 
-* 'thz' as in 
-* 'v' as in 
-* 'w' as in 
-* 'y' as in 
-* 'z' as in 
-* 'zh' as in 
+* 'b' as in **b**ack.
+* 'ch' as in **ch**icken.
+* 'd' as in **d**og.
+* 'f' as in **f**ox.
+* 'g' as in **g**ood or **g**ame.
+* 'h' as in **h**elp.
+* 'j' as in **j**uice or **g**esture.
+* 'k' as in **k**ilometer or **c**at.
+* 'l' as in **l**ion.
+* 'm' as in **m**an.
+* 'n' as in **n**ew.
+* 'ng' as in so**ng** or doi**ng**.
+* 'p' as in **p**rince or **p**et.
+* 'r' as in **r**obe or **r**at.
+* 's' as in **s**un.
+* 'sh' as in **sh**ore or **s**ure or mi**ss**ion.
+* 't' as in **t**ype.
+* 'th' as in ba**th** or pa**th**.
+* 'thz' as in **th**is or **th**at or ba**th**e (at first seems similar to 'th', but has a bit of a 'z' sound in it). 
+* 'v' as in **v**ery.
+* 'w' as in **w**ater.
+* 'y' as in **y**olk.
+* 'z' as in **z**ebra.
+* 'zh' as in vi**s**ion or preci**s**ion.
 
 ## Vowel phonemes:
 * 'a' as in **a**pple.
